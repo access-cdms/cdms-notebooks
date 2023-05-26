@@ -21,6 +21,8 @@ import datetime
 import csv
 from collections import OrderedDict
 import logging
+import warnings
+warnings.filterwarnings('ignore')
 
 #TODO: Get rid of numpy errors?
 #TODO: Update big SDAP README
